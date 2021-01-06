@@ -10,7 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "circular-json": "^0.5.9",
     "flatted": "^2.0.2",
     "mongodb": "^3.5.5",
